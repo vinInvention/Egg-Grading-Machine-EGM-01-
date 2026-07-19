@@ -58,3 +58,11 @@ Select JGY370 Worm Gear Motor with position sensor for prototype.
 
 Reason:
 Provides sufficient torque, operates efficiently at low speed, and achieves reliable indexing with external position feedback.
+
+## ED-004
+
+Decision:
+Use ANSI #35 roller chain with 15-tooth sprockets.
+
+Reason:
+Provides an excellent balance of strength, smooth motion, moderate weight, and availability while avoiding unnecessary oversizing.
