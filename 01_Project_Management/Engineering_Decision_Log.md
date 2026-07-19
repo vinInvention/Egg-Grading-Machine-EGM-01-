@@ -32,3 +32,21 @@ Future versions may investigate:
 - Modular plastic conveyor chains.
 - Multi-lane transport.
 - Continuous-motion weighing systems.
+
+## ED-002
+
+Approved
+
+Decision
+
+Use horizontal egg orientation
+
+Carrier pitch
+
+90 mm
+
+Number of carriers
+
+6
+
+Conveyor length
