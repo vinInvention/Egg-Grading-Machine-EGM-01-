@@ -50,3 +50,11 @@ Number of carriers
 6
 
 Conveyor length
+
+## ED-003
+
+Decision:
+Select JGY370 Worm Gear Motor with position sensor for prototype.
+
+Reason:
+Provides sufficient torque, operates efficiently at low speed, and achieves reliable indexing with external position feedback.
