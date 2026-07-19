@@ -66,3 +66,11 @@ Use ANSI #35 roller chain with 15-tooth sprockets.
 
 Reason:
 Provides an excellent balance of strength, smooth motion, moderate weight, and availability while avoiding unnecessary oversizing.
+
+## ED-005
+
+Decision:
+Use a 10 mm mild steel shaft supported by pillow block bearings.
+
+Reason:
+Provides sufficient rigidity, simplifies assembly, and allows easy maintenance and alignment.
