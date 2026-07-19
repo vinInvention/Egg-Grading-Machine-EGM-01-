@@ -200,3 +200,20 @@ Should Have
 
 Verification:
 Functional Test
+
+## Functional Requirements of the Egg Carrier
+
+Our carrier shall:
+
+Hold one egg securely.
+Prevent excessive rolling.
+Minimize impact during movement.
+Position the egg consistently.
+Allow accurate weighing.
+Allow easy release into the sorting chute.
+Be easy to clean.
+Be easy to manufacture.
+Be replaceable if damaged.
+Not scratch or crack the egg.
+
+Notice how these are functions, not shapes.
